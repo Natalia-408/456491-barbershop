@@ -1,0 +1,25 @@
+body {
+	min-width: 960px;
+	font-family: "PT Sans Narrow", Arial, sans-serif;
+
+	font-size: 12pt;
+	line-height: 24pt;
+	font-weight: 700;
+
+}
+a {
+	text-decoration: none;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+.visually-hidden {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+}
+.inner-page {
+	color: #000;
+	background-color: #f9f6f3;
+}
